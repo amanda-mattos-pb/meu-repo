@@ -81,21 +81,21 @@ Atualmente estou focada em desenvolver projetos reais, expandir meus conheciment
 
 # 📌 Projetos em Destaque
 
+
 ## 🌐 Caru Website
 
-Projeto de website responsivo desenvolvido para apresentação da marca Caru.
+🔗 [Repositório](https://github.com/amanda-mattos-pb/caru-website)
 
-### Tecnologias utilizadas:
+🌐 [Ver Projeto Online](https://SEU-LINK-AQUI.com)
+
+Website responsivo desenvolvido para apresentação da marca Caru.
+
+### Tecnologias utilizadas
 - HTML
 - CSS
 - JavaScript
 
-### Destaques:
-🔹 Interface moderna  
-🔹 Responsividade  
-🔹 Organização visual  
-🔹 Estrutura otimizada
-
+---
 ---
 
 ## 🐳 Docker Security Lab
