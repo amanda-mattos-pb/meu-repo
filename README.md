@@ -166,16 +166,15 @@ Scripts Bash para automação e administração de sistemas Linux.
 
 <div align="center">
 
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:SEUEMAIL">
+<a href="mailto:amandalaryssarodrigues@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-</div>
+<a href="https://wa.me/5583999944947">
+<img src="https://img.shields.io/badge/WhatsApp-6A0DAD?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
 
+</div>
 ---
 
 <div align="center">
