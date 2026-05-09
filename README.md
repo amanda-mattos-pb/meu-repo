@@ -1,26 +1,145 @@
-# meu-repo
-## 💜 Olá, meu nome é Amanda Mattos!
+<div align="center">
 
-Faça uma breve apresentação sobre você e a sua stack.
+# 👩🏻‍💻 Amanda Mattos
 
-🔭 Estou procurando projetos pra participar , enquanto termino minha facauldade
+### Tecnologia • Inteligência Artificial • Linux • Automação • Desenvolvimento Web
 
-💬 O conhecimento vem da pratica e curiosidade , e da constatne busaca de informação.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=500&lines=Tecnologia+e+Inovação;Experiência+com+IA+Generativa;ChatGPT+%7C+Claude+%7C+Automação;Sempre+aprendendo+novas+tecnologias"/>
+
+</div>
 
 ---
 
-## 🚀 Minhas Skills
+# 💜 Sobre mim
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" alt="Shell Script"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" alt="Docker"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" alt="Kubernetes"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" alt="Linux"/></code>
+Olá! Meu nome é Amanda Mattos.
+
+Sou estudante da área de tecnologia apaixonada por inteligência artificial, Linux, automação e desenvolvimento web.
+
+Tenho experiência prática utilizando ferramentas de IA generativa como:
+- ChatGPT
+- Claude AI
+- Engenharia de Prompt
+- Automação com IA
+- Criação de assistentes inteligentes
+- Pesquisa e produtividade com IA
+
+Também desenvolvo projetos envolvendo:
+- Linux
+- Docker
+- Kubernetes
+- Desenvolvimento Web
+- Automação
+- Scripts Bash
+
+Atualmente estou focada em desenvolver projetos reais, expandir meus conhecimentos técnicos e participar de novos desafios enquanto finalizo minha graduação.
+
+💡 Acredito que tecnologia se aprende na prática, através da curiosidade, criatividade e construção constante.
+
 ---
 
-## ⭐ GitHub Stats
+# 🚀 Tecnologias & Ferramentas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanda-mattos-pb&show_icons=true)
+<div align="center">
+
+<img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
+<img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png">
+<img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
+<img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png">
+<img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png">
+<img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">
+<img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
+<img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+
+</div>
+
+---
+
+# 🤖 Experiência com Inteligência Artificial
+
+🔹 Engenharia de Prompt  
+🔹 ChatGPT  
+🔹 Claude AI  
+🔹 Criação de fluxos com IA  
+🔹 Assistentes inteligentes  
+🔹 Pesquisa com IA  
+🔹 Automação de tarefas  
+🔹 Criação de conteúdo com IA
+
+---
+
+# 📌 Projetos em Destaque
+
+## 🌐 Caru Website
+Projeto de website responsivo desenvolvido para apresentação da marca Caru.
+
+🔹 Desenvolvimento Front-End  
+🔹 Interface moderna  
+🔹 Responsividade  
+🔹 Organização visual
+
+---
+
+## 🐳 Docker Security Lab
+Projeto voltado para estudos e práticas de segurança em containers.
+
+🔹 Docker  
+🔹 Hardening  
+🔹 Segurança de containers  
+🔹 Ambientes Linux
+
+---
+
+## ☸️ Kubernetes Projects
+Projetos utilizando Kubernetes para gerenciamento de aplicações e ambientes containerizados.
+
+🔹 Deployments  
+🔹 Pods  
+🔹 Services  
+🔹 Organização de ambientes
+
+---
+
+## ⚙️ Linux Automation Scripts
+Scripts Bash para automação e administração de sistemas Linux.
+
+🔹 Backup automático  
+🔹 Monitoramento  
+🔹 Organização de tarefas  
+🔹 Automações
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanda-mattos-pb&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-mattos-pb&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🌎 Conecte-se comigo
+
+<div align="center">
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:SEUEMAIL">
+<img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Sempre aprendendo, criando e evoluindo através da tecnologia.
+
+</div>
