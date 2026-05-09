@@ -4,7 +4,7 @@
 
 ### Tecnologia • Inteligência Artificial • Linux • Automação • Desenvolvimento Web
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=500&lines=Tecnologia+e+Inovação;Experiência+com+IA+Generativa;ChatGPT+%7C+Claude+%7C+Automação;Sempre+aprendendo+novas+tecnologias"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=Tecnologia+e+Inovação;Experiência+com+IA+Generativa;ChatGPT+%7C+Claude+%7C+Automação;Linux+%7C+Docker+%7C+Kubernetes;Sempre+aprendendo+novas+tecnologias"/>
 
 </div>
 
@@ -17,14 +17,16 @@ Olá! Meu nome é Amanda Mattos.
 Sou estudante da área de tecnologia apaixonada por inteligência artificial, Linux, automação e desenvolvimento web.
 
 Tenho experiência prática utilizando ferramentas de IA generativa como:
+
 - ChatGPT
 - Claude AI
 - Engenharia de Prompt
 - Automação com IA
-- Criação de assistentes inteligentes
+- Assistentes inteligentes
 - Pesquisa e produtividade com IA
 
 Também desenvolvo projetos envolvendo:
+
 - Linux
 - Docker
 - Kubernetes
@@ -43,13 +45,22 @@ Atualmente estou focada em desenvolver projetos reais, expandir meus conheciment
 <div align="center">
 
 <img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
+
 <img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png">
+
 <img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
+
 <img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png">
+
 <img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png">
+
 <img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">
+
 <img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
+
 <img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+
+<img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
 
 </div>
 
@@ -71,28 +82,49 @@ Atualmente estou focada em desenvolver projetos reais, expandir meus conheciment
 # 📌 Projetos em Destaque
 
 ## 🌐 Caru Website
+
 Projeto de website responsivo desenvolvido para apresentação da marca Caru.
 
-🔹 Desenvolvimento Front-End  
+### Tecnologias utilizadas:
+- HTML
+- CSS
+- JavaScript
+
+### Destaques:
 🔹 Interface moderna  
 🔹 Responsividade  
-🔹 Organização visual
+🔹 Organização visual  
+🔹 Estrutura otimizada
 
 ---
 
 ## 🐳 Docker Security Lab
+
 Projeto voltado para estudos e práticas de segurança em containers.
 
-🔹 Docker  
-🔹 Hardening  
+### Tecnologias utilizadas:
+- Docker
+- Linux
+- Bash
+
+### Destaques:
+🔹 Hardening Docker  
 🔹 Segurança de containers  
-🔹 Ambientes Linux
+🔹 Ambientes Linux  
+🔹 Estudos de vulnerabilidades
 
 ---
 
 ## ☸️ Kubernetes Projects
+
 Projetos utilizando Kubernetes para gerenciamento de aplicações e ambientes containerizados.
 
+### Tecnologias utilizadas:
+- Kubernetes
+- Docker
+- Linux
+
+### Destaques:
 🔹 Deployments  
 🔹 Pods  
 🔹 Services  
@@ -100,9 +132,11 @@ Projetos utilizando Kubernetes para gerenciamento de aplicações e ambientes co
 
 ---
 
-## ⚙️ Linux Automation Scripts
+## ⚙️ Scripts de Automação Linux
+
 Scripts Bash para automação e administração de sistemas Linux.
 
+### Funcionalidades:
 🔹 Backup automático  
 🔹 Monitoramento  
 🔹 Organização de tarefas  
@@ -110,13 +144,19 @@ Scripts Bash para automação e administração de sistemas Linux.
 
 ---
 
-# 📈 GitHub Stats
+# 📈 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanda-mattos-pb&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amanda-mattos-pb&show_icons=true&theme=radical"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-mattos-pb&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-mattos-pb&layout=compact&theme=radical"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanda-mattos-pb&theme=radical"/>
 
 </div>
 
