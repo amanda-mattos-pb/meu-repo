@@ -84,7 +84,7 @@ Atualmente estou focada em desenvolver projetos reais, expandir meus conheciment
 
 ## 🌐 Caru Website
 
-🔗 [Repositório](https://github.com/amanda-mattos-pb/caru-website)
+🔗 [Repositório]([https://github.com/amanda-mattos-pb/caru-quintela.git])
 
 🌐 [Ver Projeto Online](https://SEU-LINK-AQUI.com)
 
