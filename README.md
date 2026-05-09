@@ -82,9 +82,7 @@ Atualmente estou focada em desenvolver projetos reais, expandir meus conheciment
 # 📌 Projetos em Destaque
 
 
-## 🌐 Caru Website
-
-🔗 [Repositório]([https://github.com/amanda-mattos-pb/caru-quintela.git])
+🔗 [Repositório](https://github.com/amanda-mattos-pb/caru-quintela)
 
 🌐 [Ver Projeto Online](https://SEU-LINK-AQUI.com)
 
@@ -95,7 +93,6 @@ Website responsivo desenvolvido para apresentação da marca Caru.
 - CSS
 - JavaScript
 
----
 ---
 
 ## 🐳 Docker Security Lab
