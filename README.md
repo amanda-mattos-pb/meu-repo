@@ -84,7 +84,7 @@ Atualmente estou focada em desenvolver projetos reais, expandir meus conheciment
 
 🔗 [Repositório](https://github.com/amanda-mattos-pb/caru-quintela)
 
-🌐 [Ver Projeto Online](https://SEU-LINK-AQUI.com)
+🌐 [Ver Projeto Online]((https://caruquintellaodontocqo.com.br/))
 
 Website responsivo desenvolvido para apresentação da marca Caru.
 
